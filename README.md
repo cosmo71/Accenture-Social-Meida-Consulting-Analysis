@@ -12,6 +12,8 @@ Percentage Increase in Reactions Month Over Month
 
 Percentage Increase in Reactions Month Over Month For Top 5 Categories
 ![image](https://github.com/user-attachments/assets/7ff94fe4-c98a-4c67-9a94-e42c72b90e12)
+<img width="748" alt="image" src="https://github.com/user-attachments/assets/3fe7ea5a-f351-4aad-a3a0-c52663ade195">
+
 
 
 

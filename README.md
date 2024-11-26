@@ -6,9 +6,13 @@
 ## Executive Summary 
 
 ## Insights Deep Dive
-Percentage Increase in Reaction Month Over Month
+Percentage Increase in Reactions Month Over Month
 ![image](https://github.com/user-attachments/assets/6e9ad12f-26bc-4458-862e-009bcc9e1ee0)
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/8e4ea2fa-8d5e-493e-a317-ec1ac68d7406">
+
+Percentage Increase in Reactions Month Over Month For Top 5 Categories
+<img width="961" alt="image" src="https://github.com/user-attachments/assets/470ab2b9-85c5-4754-ac34-5dfa4e353785">
+
 
 
 Reactions Per Category Month over Month

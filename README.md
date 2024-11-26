@@ -8,6 +8,20 @@
 ## Insights Deep Dive
 Percentage Increase in Reaction Month Over Month
 ![image](https://github.com/user-attachments/assets/6e9ad12f-26bc-4458-862e-009bcc9e1ee0)
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/8e4ea2fa-8d5e-493e-a317-ec1ac68d7406">
+
+
+Reactions Per Category Month over Month
+![image](https://github.com/user-attachments/assets/7959a4a7-43cf-497a-8efe-6ac5c049e23a)
+  - Notice how Animal is leading overall (Calculate by how much %)
+
+Monthly Trends for Top 5 Categories
+![image](https://github.com/user-attachments/assets/c2cd9b82-c9af-48c0-8937-de40ef0963a1)
+
+Distribution of Sentiments and Reaction Types
+<img width="492" alt="image" src="https://github.com/user-attachments/assets/5993c41f-a792-405d-8379-2403bcdf90be">
+
+
 
 
 ## Product Performance (replace this with Platform Performance & talk about how they are doing in terms of posts per month and the different types of posts they are getting, you many also want this to be right after exec summary)

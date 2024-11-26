@@ -40,7 +40,8 @@ Reactions Per Day:
   - Min: 39
   - Max: 95
 
-![image](https://github.com/user-attachments/assets/720fdb1c-7d5d-48d1-a457-deba18bee3e6)
+<img width="994" alt="image" src="https://github.com/user-attachments/assets/c4915621-37d6-4182-9e9e-8f63d4b35f89">
+
 
 
 

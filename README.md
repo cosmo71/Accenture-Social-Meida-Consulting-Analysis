@@ -8,6 +8,17 @@
 ## Insights Deep Dive
 
 ## Product Performance (replace this with Platform Performance & talk about how they are doing in terms of posts per month and the different types of posts they are getting, you many also want this to be right after exec summary)
+Total Posts with users: 24,573 posts
+
+Reactions Per Day:
+  - Average: 67
+  - Min: 39
+  - Max: 95
+
+Breakdown of Reactions per Day:
+![image](https://github.com/user-attachments/assets/b0f579db-f858-43a6-ac00-a7495cc39db1)
+
+
 
 ## Reccomendations 
 <if posts are decreasing for some month then try to incentivze people to post>

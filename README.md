@@ -4,6 +4,7 @@
 
 
 ## Executive Summary 
+The most popular type content <photo, video, etc...>, and most popular content is about ____. Most popular content that is liked ___, disliked ____. All of the metrics are based on a score assigned using the reactions of other people catagorized into 16 reaction types and then 3 sentiments.  
 
 ## Insights Deep Dive
 Percentage Increase in Reactions Month Over Month
